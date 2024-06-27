@@ -1,4 +1,4 @@
-<img width="200" height="240" src="profile.jpg" style="float: left; margin: 0px 20px 0px -250px; border-radius: 50%;  border: 5px solid #555;">
+<img width="200" height="240" src="IMG_0107.jpeg" style="float: left; margin: 0px 20px 0px -250px; border-radius: 50%;  border: 5px solid #555;">
 
 Arnold is a grad student @ [Computer Science and Engineering Department](https://minerva.nitc.ac.in)<b> , NIT Calicut</b>. He is advised by [Prof Nirmal Kumar Boran](https://people.cse.nitc.ac.in/nirmal/) and works at the Hardware Lab. His research is primarily focussed in Computer Systems(Architecture, Operating Systems & GPU Memory Subsystem).
 
