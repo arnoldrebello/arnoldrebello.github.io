@@ -4,9 +4,9 @@ Arnold is a grad student @ [Computer Science and Engineering Department](https:/
 
 He is currently working on Optimisation and performance improvement of Heterogeneous CPU-GPU Integrated System.
 
-He previously worked at State Street Global Advisors in 2022 as an Apprentice in Identity and Access Management where his work primarily revolved around troubleshooting issues on Nutanix stack. He is skilled in resolving issues related to Networking, Hardware, Virtualisation/Hypervisors, Storage on (AHV/ESXi/Hyper-V).
+He previously worked at State Street Global Advisors in 2022 as an Apprentice in Identity and Access Management where his work primarily revolved around managing grants and revokes to databases and software accesses to the users in the organization.
 
-Before joining Nutanix he graduated with a major in CSE in 2020 from <b>KIIT</b>, BBSR, Odisha.
+He completed his Bachelors in Computer Science Engineering from Visvesvaraya Technological University in 2020.
 
 <b>EMAIL :</b> arnold_m230317@nitc.acin
 
